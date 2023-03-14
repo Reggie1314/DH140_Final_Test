@@ -8,5 +8,4 @@ Interested Question:
 1. What is the discourse surrounding the advocacy and criticism concerning fast fashion?
 2. How do American attitudes towards culture, capitalism, and environmentalism influence attitudes towards practices of fast fashion production and consumption?
 
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Reggie1314/DH140_Final_Test/HEAD)
