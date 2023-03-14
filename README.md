@@ -1,18 +1,12 @@
 # DH140_Final_Test
 
-Intersted Topic:
-I used to produce the quantitative results from paper addressing algorithmic bias in healthcare insurance system. https://www.hsph.harvard.edu/ecpe/how-to-prevent-algorithmic-bias-in-health-care/ is an article that provides sensible solutions to such issue.
+Topic: Fast Fashion Tweet Analysis
 
-Data Visualization:
-I want to learn how to make the data visualization for the simulation of normal distribution.
+Motivation: I wish to dissect the Twitter discourse surrounding fast fashion to better understand the environmental, social, and cultural issues associated with the industry. Fast fashion is a complicated industry which exploits many aspects of human life. I am specifically interested in how it is entangled with environmentalism, socioeconomic inequality, consumerism, human rights, and fashion culture. My research questions focus on examining how people discuss fast fashion on Twitter through qualitative and quantitative research.
 
-Ideas for Investigation:
-(1) algorithmic fairness in healthcare industry
-(2) protection users' privacy
-(3) ethical yet efficient approaches towards data mining process
-
-Ideas From Curated Datasets:
-(1) Car Evaluation: this database may be useful for testing constructive induction and structure discovery methods https://archive.ics.uci.edu/ml/datasets/Car+Evaluation.
-(2) Breast Cancer Wisconsin: this database contains parameters pertinent to breast cancer, may be useful to diagnostic prediction https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29.
+Interested Question:
+1. What is the discourse surrounding the advocacy and criticism concerning fast fashion?
+2. How do American attitudes towards culture, capitalism, and environmentalism influence attitudes towards practices of fast fashion production and consumption?
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Reggie1314/DH140_Final_Test/HEAD)
