@@ -15,4 +15,3 @@ Ideas From Curated Datasets:
 (1) Car Evaluation: this database may be useful for testing constructive induction and structure discovery methods https://archive.ics.uci.edu/ml/datasets/Car+Evaluation.
 (2) Breast Cancer Wisconsin: this database contains parameters pertinent to breast cancer, may be useful to diagnostic prediction https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29.
 
-
